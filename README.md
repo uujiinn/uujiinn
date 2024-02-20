@@ -1,5 +1,3 @@
-## About Me 😀
-
 ## Technology Stack 📚
 
 ### Back-End
