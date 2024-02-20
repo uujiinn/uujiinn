@@ -1,5 +1,3 @@
-# ReadMe
-
 ## About Me 😀
 
 ## Technology Stack 📚
